@@ -16,4 +16,4 @@ Berikut adalah hasil screenshoot aplikasinya : <br><br>
 ### *__Ketika tombol back navigation pada halaman "hasil" diklik, maka akan kembali pada halaman "input"__*
 ![screenshots](https://github.com/sbbriggitash/Intent1/blob/master/Intent1-4.png)<br><br><br>
 
-## Shafhira Briggita Y._XI RPL 4_31_4836/1555.070_SMK Telkom Malang
+## Shafhira Briggita Y._XI RPL 4_31_4835/1554.070_SMK Telkom Malang
